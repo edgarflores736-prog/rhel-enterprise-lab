@@ -65,3 +65,30 @@ This lab demonstrated how Linux administrators manage enterprise user accounts, 
 - Password Aging
 - Account Locking
 - User Auditing
+
+
+## Screenshots
+
+### Lab Structure
+
+![Lab Structure](screenshots/01-lab-structure.png.png)
+
+### Creating Enterprise Groups
+
+![Create Groups](screenshots/02-create-groups.png.png)
+
+### Password Aging Policy
+
+![Password Aging](screenshots/03-password-aging.png.png)
+
+### Administrative Access (Wheel Group)
+
+![Wheel Group](screenshots/04-wheel-group.png)
+
+### Locked User Account
+
+![Locked Account](screenshots/05-lock-account.png)
+
+### Enterprise User Audit Script
+
+![User Audit Script](screenshots/06-user-audit-script.png)
